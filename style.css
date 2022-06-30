@@ -1,0 +1,107 @@
+marquee {
+    background: red;
+  } 
+  body{  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-color: red;  
+  }  
+  .container {  
+      padding: 50px;  
+    background-color: cadetblue;  
+  }  
+    
+  input[type=text], input[type=password], textarea {  
+    width: 100%;  
+    padding: 15px;  
+    margin: 5px 0 22px 0;  
+    display: inline-block;  
+    border: none;  
+    background: #f1f1f1;  
+  }  
+  input[type=text]:focus, input[type=password]:focus {  
+    background-color:  #f1f1f1;  
+    outline: none;  
+  }  
+   div {  
+              padding: 10px 0;  
+           }  
+  hr {  
+    border: 1px solid #f1f1f1;  
+    margin-bottom: 25px;  
+  }  
+  .registerbtn {  
+    background-color: red;  
+    color: white;  
+    padding: 16px 20px;  
+    margin: 8px 0;  
+    border: none;  
+    cursor: pointer;  
+    width: 100%;  
+    opacity: 0.9;  
+  }  
+  .registerbtn:hover {  
+    opacity: 1;  
+  }  
+  .menu-bar {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: cadetblue;
+    font-family: cursive;
+    font-size: large;
+    color: whitesmoke;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  h2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .mv {
+    padding-top: 40px;
+    background: linear-gradient(
+      red,
+      cadetblue
+    );
+  }
+    .social {
+      margin-left: 180px;
+    }
+    .social-link {
+      padding-right: 10px;
+      font-family: "Noto Sans", sans-serif;
+      font-style: italic;
+      font-size: 14px;
+    }
+  .contact {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px 20px 20px 20px;
+    background: cadetblue;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-weight: normal;
+    font-style: italic;
+    font-size: large;
+    padding-bottom:15rem;
+  }
+  #register {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px 20px 20px 20px;
+    background: cadetblue;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  img {
+    height: 500px;
+    width: 100%;
+  }
+  h1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: 3em;
+    background: cadetblue;
+  }
+  
